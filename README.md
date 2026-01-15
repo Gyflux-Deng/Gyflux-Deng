@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gyflux-Deng
 - 👀 I’m interested in learning and exploring codings
-- 🌱 I’m currently studying in Digipen Singapore 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently interning at Hitachi Rails
 - 📫 How to reach me gyflux.deng.school@gmail.com
 
 <!---
