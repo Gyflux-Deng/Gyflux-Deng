@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gyflux-Deng
 - 👀 I’m interested in learning and exploring codings
-- 🌱 I’m currently interning at Hitachi Rails
+- 🌱 I’m currently working at Bunkerchain
 - 📫 How to reach me gyflux.deng.school@gmail.com
 
 <!---
